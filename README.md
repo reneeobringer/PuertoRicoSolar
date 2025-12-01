@@ -1,7 +1,7 @@
 # PuertoRicoSolar
 Data and code for an analysis of the relationship between solar energy and local weather in Puerto Rico. The results from the analysis are currently under review.
 
-A permanent version of this repository can be found online: [![DOI](https://zenodo.org/badge/1104029926.svg)](https://doi.org/10.5281/zenodo.17781944).
+A permanent version of this repository can be found [online](https://doi.org/10.5281/zenodo.17781944).
 
 
 Two categories of data were collected: solar energy generation data and local weather data. The solar energy generation data (folder: `SolarData`) includes potential solar energy generation data for 76 Puerto Rican municipalities obtained through PVGIS. The weather data (folder: `WeatherData`) were obtained from the Daymet gridded dataset. All data were collected 2023 and 2025.
