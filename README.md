@@ -1,8 +1,17 @@
 # PuertoRicoSolar
-Data and code for an analysis of the relationship between solar energy and local weather in Puerto Rico. The results from the analysis are currently under review.
+Data and code for an analysis of the relationship between solar energy and local weather in Puerto Rico. The results from the analysis were recently accepted for publication in [_Environmental Research: Energy_](https://iopscience.iop.org/article/10.1088/2753-3751/ae2d5a/meta). The manuscript can be cited: 
+
+```bibtex
+@article{vitti2026,
+  title = {Understanding the trade-offs between solar power predictability and variability in Puerto Rico},
+  author = {Vitti, Caden and Marchant, Tanner and Obringer, Renee},
+  year = {2026},
+  journal = {Environmental Research: Energy},
+  doi = {10.1088/2753-3751/ae2d5a}
+}
+```
 
 A permanent version of this repository has been archived via [Zenodo](https://doi.org/10.5281/zenodo.17781944).
-
 
 Two categories of data were collected: solar energy generation data and local weather data. The solar energy generation data (folder: `SolarData`) includes potential solar energy generation data for 76 Puerto Rican municipalities obtained through PVGIS. The weather data (folder: `WeatherData`) were obtained from the Daymet gridded dataset. All data were collected 2023 and 2025.
 
